@@ -24,6 +24,209 @@
 			remoteGlobalIDString = BC8586EC1B010F1400D24464;
 			remoteInfo = cedargittest;
 		};
+		BC8587261B010FAD00D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587161B010FAC00D24464 /* Cedar.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEEE1FB611DC271300029872;
+			remoteInfo = Cedar;
+		};
+		BC8587281B010FAD00D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587161B010FAC00D24464 /* Cedar.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEEE218611DC28E200029872;
+			remoteInfo = "Cedar OS X Specs";
+		};
+		BC85872A1B010FAD00D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587161B010FAC00D24464 /* Cedar.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 96A07F0813F276640021974D;
+			remoteInfo = "Cedar OS X FocusedSpecs";
+		};
+		BC85872C1B010FAD00D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587161B010FAC00D24464 /* Cedar.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEEE222911DC2B0600029872;
+			remoteInfo = "Cedar-StaticLib";
+		};
+		BC85872E1B010FAD00D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587161B010FAC00D24464 /* Cedar.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEEE227611DC2CF900029872;
+			remoteInfo = "Cedar iOS Specs";
+		};
+		BC8587301B010FAD00D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587161B010FAC00D24464 /* Cedar.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AE02E7E4184EABCD00414F19;
+			remoteInfo = "Cedar iOS FrameworkSpecs";
+		};
+		BC8587321B010FAD00D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587161B010FAC00D24464 /* Cedar.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 96B5F9F6144A81A7000A6A5D;
+			remoteInfo = "Cedar iOS Host App";
+		};
+		BC8587341B010FAD00D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587161B010FAC00D24464 /* Cedar.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 96B5FA11144A81A8000A6A5D;
+			remoteInfo = "Cedar iOS SenTestingKit Tests";
+		};
+		BC8587361B010FAD00D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587161B010FAC00D24464 /* Cedar.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 1F45A3DD180E4796003C1E36;
+			remoteInfo = "Cedar iOS XCTest Tests";
+		};
+		BC8587381B010FAD00D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587161B010FAC00D24464 /* Cedar.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AE248F9819DCD52500092C14;
+			remoteInfo = "Cedar OS X Host App";
+		};
+		BC85873A1B010FAD00D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587161B010FAC00D24464 /* Cedar.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AE248FAA19DCD52500092C14;
+			remoteInfo = "Cedar OS X Host AppTests";
+		};
+		BC85873C1B010FAD00D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587161B010FAC00D24464 /* Cedar.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEB8818719DCD62D00F081BA;
+			remoteInfo = "Cedar OS X Failing Test Bundle";
+		};
+		BC8587471B01103100D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC85873E1B01103100D24464 /* CoreLocation.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AE384900168CD8C800C99B55;
+			remoteInfo = "CoreLocation+PivotalSpecHelper";
+		};
+		BC8587491B01103100D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC85873E1B01103100D24464 /* CoreLocation.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AE384918168CD8D800C99B55;
+			remoteInfo = CoreLocationSpec;
+		};
+		BC85874B1B01103100D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC85873E1B01103100D24464 /* CoreLocation.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AE38498E168D053300C99B55;
+			remoteInfo = "CoreLocation+PivotalSpecHelper-StaticLib";
+		};
+		BC85874D1B01103100D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC85873E1B01103100D24464 /* CoreLocation.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AE3848D5168CD86000C99B55;
+			remoteInfo = "CoreLocation-StaticLibSpec";
+		};
+		BC85874F1B01103100D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC85873E1B01103100D24464 /* CoreLocation.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AE118AE418D6BC2F00C90D6B;
+			remoteInfo = "CoreLocation-StaticLibSpecBundle";
+		};
+		BC85875E1B01104300D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587511B01104300D24464 /* Foundation.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEA96B49168B506500861DF1;
+			remoteInfo = "Foundation+PivotalCore";
+		};
+		BC8587601B01104300D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587511B01104300D24464 /* Foundation.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEA96C54168B636E00861DF1;
+			remoteInfo = "Foundation+PivotalCore-StaticLib";
+		};
+		BC8587621B01104300D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587511B01104300D24464 /* Foundation.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEA96B9E168B541900861DF1;
+			remoteInfo = "Foundation+PivotalSpecHelper";
+		};
+		BC8587641B01104300D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587511B01104300D24464 /* Foundation.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEA96C64168B63BD00861DF1;
+			remoteInfo = "Foundation+PivotalSpecHelper-StaticLib";
+		};
+		BC8587661B01104300D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587511B01104300D24464 /* Foundation.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEA96BD3168B561500861DF1;
+			remoteInfo = FoundationSpec;
+		};
+		BC8587681B01104300D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587511B01104300D24464 /* Foundation.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEA96C74168B640B00861DF1;
+			remoteInfo = "Foundation-StaticLibSpec";
+		};
+		BC85876A1B01104300D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC8587511B01104300D24464 /* Foundation.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AE2A04B018D3E6AA00D4FD96;
+			remoteInfo = "Foundation-StaticLibSpecBundle";
+		};
+		BC8587771B01104900D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC85876C1B01104900D24464 /* UIKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEBCCC24168B999F0056EE83;
+			remoteInfo = "UIKit+PivotalCore-StaticLib";
+		};
+		BC8587791B01104900D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC85876C1B01104900D24464 /* UIKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEBCCC64168B9AF10056EE83;
+			remoteInfo = "UIKit+PivotalSpecHelper-StaticLib";
+		};
+		BC85877B1B01104900D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC85876C1B01104900D24464 /* UIKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEC40C89174C203700474D2D;
+			remoteInfo = "UIKit+PivotalSpecHelperStubs-StaticLib";
+		};
+		BC85877D1B01104900D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC85876C1B01104900D24464 /* UIKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AEBCCC34168B99ED0056EE83;
+			remoteInfo = "UIKit-StaticLibSpec";
+		};
+		BC85877F1B01104900D24464 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BC85876C1B01104900D24464 /* UIKit.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = AE118AA218D6B57000C90D6B;
+			remoteInfo = "UIKit-StaticLibSpecBundle";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +243,10 @@
 		BC8587061B010F1400D24464 /* cedargittestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cedargittestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC85870B1B010F1400D24464 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC85870C1B010F1400D24464 /* cedargittestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cedargittestTests.m; sourceTree = "<group>"; };
+		BC8587161B010FAC00D24464 /* Cedar.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Cedar.xcodeproj; path = Externals/cedar/Cedar.xcodeproj; sourceTree = SOURCE_ROOT; };
+		BC85873E1B01103100D24464 /* CoreLocation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CoreLocation.xcodeproj; path = Externals/PivotalCoreKit/CoreLocation/CoreLocation.xcodeproj; sourceTree = SOURCE_ROOT; };
+		BC8587511B01104300D24464 /* Foundation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Foundation.xcodeproj; path = Externals/PivotalCoreKit/Foundation/Foundation.xcodeproj; sourceTree = SOURCE_ROOT; };
+		BC85876C1B01104900D24464 /* UIKit.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = UIKit.xcodeproj; path = Externals/PivotalCoreKit/UIKit/UIKit.xcodeproj; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,11 +288,15 @@
 		BC8586EF1B010F1400D24464 /* cedargittest */ = {
 			isa = PBXGroup;
 			children = (
+				BC8587161B010FAC00D24464 /* Cedar.xcodeproj */,
 				BC8586F41B010F1400D24464 /* AppDelegate.h */,
 				BC8586F51B010F1400D24464 /* AppDelegate.m */,
 				BC8586F71B010F1400D24464 /* ViewController.h */,
+				BC85876C1B01104900D24464 /* UIKit.xcodeproj */,
 				BC8586F81B010F1400D24464 /* ViewController.m */,
+				BC8587511B01104300D24464 /* Foundation.xcodeproj */,
 				BC8586FA1B010F1400D24464 /* Main.storyboard */,
+				BC85873E1B01103100D24464 /* CoreLocation.xcodeproj */,
 				BC8586FD1B010F1400D24464 /* Images.xcassets */,
 				BC8586FF1B010F1400D24464 /* LaunchScreen.xib */,
 				BC8586F01B010F1400D24464 /* Supporting Files */,
@@ -117,6 +328,63 @@
 				BC85870B1B010F1400D24464 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BC8587171B010FAC00D24464 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BC8587271B010FAD00D24464 /* Cedar.framework */,
+				BC8587291B010FAD00D24464 /* Cedar OS X Specs */,
+				BC85872B1B010FAD00D24464 /* Cedar OS X FocusedSpecs */,
+				BC85872D1B010FAD00D24464 /* libCedar-StaticLib.a */,
+				BC85872F1B010FAD00D24464 /* Cedar iOS Specs.app */,
+				BC8587311B010FAD00D24464 /* Cedar iOS FrameworkSpecs.app */,
+				BC8587331B010FAD00D24464 /* Cedar iOS Host App.app */,
+				BC8587351B010FAD00D24464 /* Cedar iOS SenTestingKit Tests.octest */,
+				BC8587371B010FAD00D24464 /* XCUnitAppTests.xctest */,
+				BC8587391B010FAD00D24464 /* Cedar OS X Host App.app */,
+				BC85873B1B010FAD00D24464 /* Cedar OS X Host AppTests.xctest */,
+				BC85873D1B010FAD00D24464 /* Cedar OS X Failing Test Bundle.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BC85873F1B01103100D24464 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BC8587481B01103100D24464 /* CoreLocation+PivotalSpecHelper.framework */,
+				BC85874A1B01103100D24464 /* CoreLocationSpec */,
+				BC85874C1B01103100D24464 /* libCoreLocation+PivotalSpecHelper-StaticLib.a */,
+				BC85874E1B01103100D24464 /* CoreLocation-StaticLibSpec.app */,
+				BC8587501B01103100D24464 /* CoreLocation-StaticLibSpecBundle.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BC8587521B01104300D24464 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BC85875F1B01104300D24464 /* Foundation+PivotalCore.framework */,
+				BC8587611B01104300D24464 /* libFoundation+PivotalCore-StaticLib.a */,
+				BC8587631B01104300D24464 /* Foundation+PivotalSpecHelper.framework */,
+				BC8587651B01104300D24464 /* libFoundation+PivotalSpecHelper-StaticLib.a */,
+				BC8587671B01104300D24464 /* FoundationSpec */,
+				BC8587691B01104300D24464 /* Foundation-StaticLibSpec.app */,
+				BC85876B1B01104300D24464 /* Foundation-StaticLibSpecBundle.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BC85876D1B01104900D24464 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BC8587781B01104900D24464 /* libUIKit+PivotalCore-StaticLib.a */,
+				BC85877A1B01104900D24464 /* libUIKit+PivotalSpecHelper-StaticLib.a */,
+				BC85877C1B01104900D24464 /* libUIKit+PivotalSpecHelperStubs-StaticLib.a */,
+				BC85877E1B01104900D24464 /* UIKit-StaticLibSpec.app */,
+				BC8587801B01104900D24464 /* UIKit-StaticLibSpecBundle.octest */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -186,6 +454,24 @@
 			mainGroup = BC8586E41B010F1400D24464;
 			productRefGroup = BC8586EE1B010F1400D24464 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = BC8587171B010FAC00D24464 /* Products */;
+					ProjectRef = BC8587161B010FAC00D24464 /* Cedar.xcodeproj */;
+				},
+				{
+					ProductGroup = BC85873F1B01103100D24464 /* Products */;
+					ProjectRef = BC85873E1B01103100D24464 /* CoreLocation.xcodeproj */;
+				},
+				{
+					ProductGroup = BC8587521B01104300D24464 /* Products */;
+					ProjectRef = BC8587511B01104300D24464 /* Foundation.xcodeproj */;
+				},
+				{
+					ProductGroup = BC85876D1B01104900D24464 /* Products */;
+					ProjectRef = BC85876C1B01104900D24464 /* UIKit.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				BC8586EC1B010F1400D24464 /* cedargittest */,
@@ -193,6 +479,212 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		BC8587271B010FAD00D24464 /* Cedar.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Cedar.framework;
+			remoteRef = BC8587261B010FAD00D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587291B010FAD00D24464 /* Cedar OS X Specs */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "Cedar OS X Specs";
+			remoteRef = BC8587281B010FAD00D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC85872B1B010FAD00D24464 /* Cedar OS X FocusedSpecs */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = "Cedar OS X FocusedSpecs";
+			remoteRef = BC85872A1B010FAD00D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC85872D1B010FAD00D24464 /* libCedar-StaticLib.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libCedar-StaticLib.a";
+			remoteRef = BC85872C1B010FAD00D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC85872F1B010FAD00D24464 /* Cedar iOS Specs.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = "Cedar iOS Specs.app";
+			remoteRef = BC85872E1B010FAD00D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587311B010FAD00D24464 /* Cedar iOS FrameworkSpecs.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = "Cedar iOS FrameworkSpecs.app";
+			remoteRef = BC8587301B010FAD00D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587331B010FAD00D24464 /* Cedar iOS Host App.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = "Cedar iOS Host App.app";
+			remoteRef = BC8587321B010FAD00D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587351B010FAD00D24464 /* Cedar iOS SenTestingKit Tests.octest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "Cedar iOS SenTestingKit Tests.octest";
+			remoteRef = BC8587341B010FAD00D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587371B010FAD00D24464 /* XCUnitAppTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = XCUnitAppTests.xctest;
+			remoteRef = BC8587361B010FAD00D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587391B010FAD00D24464 /* Cedar OS X Host App.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = "Cedar OS X Host App.app";
+			remoteRef = BC8587381B010FAD00D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC85873B1B010FAD00D24464 /* Cedar OS X Host AppTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "Cedar OS X Host AppTests.xctest";
+			remoteRef = BC85873A1B010FAD00D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC85873D1B010FAD00D24464 /* Cedar OS X Failing Test Bundle.octest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "Cedar OS X Failing Test Bundle.octest";
+			remoteRef = BC85873C1B010FAD00D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587481B01103100D24464 /* CoreLocation+PivotalSpecHelper.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = "CoreLocation+PivotalSpecHelper.framework";
+			remoteRef = BC8587471B01103100D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC85874A1B01103100D24464 /* CoreLocationSpec */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = CoreLocationSpec;
+			remoteRef = BC8587491B01103100D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC85874C1B01103100D24464 /* libCoreLocation+PivotalSpecHelper-StaticLib.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libCoreLocation+PivotalSpecHelper-StaticLib.a";
+			remoteRef = BC85874B1B01103100D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC85874E1B01103100D24464 /* CoreLocation-StaticLibSpec.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = "CoreLocation-StaticLibSpec.app";
+			remoteRef = BC85874D1B01103100D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587501B01103100D24464 /* CoreLocation-StaticLibSpecBundle.octest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "CoreLocation-StaticLibSpecBundle.octest";
+			remoteRef = BC85874F1B01103100D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC85875F1B01104300D24464 /* Foundation+PivotalCore.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = "Foundation+PivotalCore.framework";
+			remoteRef = BC85875E1B01104300D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587611B01104300D24464 /* libFoundation+PivotalCore-StaticLib.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libFoundation+PivotalCore-StaticLib.a";
+			remoteRef = BC8587601B01104300D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587631B01104300D24464 /* Foundation+PivotalSpecHelper.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = "Foundation+PivotalSpecHelper.framework";
+			remoteRef = BC8587621B01104300D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587651B01104300D24464 /* libFoundation+PivotalSpecHelper-StaticLib.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libFoundation+PivotalSpecHelper-StaticLib.a";
+			remoteRef = BC8587641B01104300D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587671B01104300D24464 /* FoundationSpec */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = FoundationSpec;
+			remoteRef = BC8587661B01104300D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587691B01104300D24464 /* Foundation-StaticLibSpec.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = "Foundation-StaticLibSpec.app";
+			remoteRef = BC8587681B01104300D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC85876B1B01104300D24464 /* Foundation-StaticLibSpecBundle.octest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "Foundation-StaticLibSpecBundle.octest";
+			remoteRef = BC85876A1B01104300D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587781B01104900D24464 /* libUIKit+PivotalCore-StaticLib.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libUIKit+PivotalCore-StaticLib.a";
+			remoteRef = BC8587771B01104900D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC85877A1B01104900D24464 /* libUIKit+PivotalSpecHelper-StaticLib.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libUIKit+PivotalSpecHelper-StaticLib.a";
+			remoteRef = BC8587791B01104900D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC85877C1B01104900D24464 /* libUIKit+PivotalSpecHelperStubs-StaticLib.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libUIKit+PivotalSpecHelperStubs-StaticLib.a";
+			remoteRef = BC85877B1B01104900D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC85877E1B01104900D24464 /* UIKit-StaticLibSpec.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = "UIKit-StaticLibSpec.app";
+			remoteRef = BC85877D1B01104900D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		BC8587801B01104900D24464 /* UIKit-StaticLibSpecBundle.octest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "UIKit-StaticLibSpecBundle.octest";
+			remoteRef = BC85877F1B01104900D24464 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		BC8586EB1B010F1400D24464 /* Resources */ = {
@@ -418,6 +910,7 @@
 				BC8587121B010F1400D24464 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BC8587131B010F1400D24464 /* Build configuration list for PBXNativeTarget "cedargittestTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +919,7 @@
 				BC8587151B010F1400D24464 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
